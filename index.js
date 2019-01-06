@@ -58,7 +58,6 @@ export default class ScrollPicker extends Component {
         let wrapperStyle = {
             height:this.wrapperHeight,
             flex:1,
-            backgroundColor:'#fafafa',
             overflow:'hidden',
         };
 
